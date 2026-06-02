@@ -1,12 +1,4 @@
-markdown# ☁️ Terraform & AWS Infrastructure Portfolio
-
 Infrastructure as Code projects built on AWS using Terraform — focused on modular, production-ready deployments.
-
----
-
-## 📁 Repository Structure
-├── wordpress-deployment/    # Modular WordPress deployment on AWS
-└── learning/                # Terraform experiments and learning exercises
 
 ---
 
