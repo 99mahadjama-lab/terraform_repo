@@ -6,7 +6,7 @@ locals {
 }
 
 locals {
-  instance_ami = "ami-0d114020bf27f27cf"
+  instance_ami = "ami-0de864d6a3bd20ea8"
 }
 
 variable "instance_type" {
@@ -16,4 +16,16 @@ variable "instance_type" {
 
 variable "public_key" {
     type = string
+}
+
+variable "username" {
+  type = string
+}
+
+variable "password" {
+  type = string
+}
+
+variable "cidr_blocks" {
+  type = list(string)
 }
