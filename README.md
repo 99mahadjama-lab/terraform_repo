@@ -4,7 +4,7 @@ Infrastructure as Code projects built on AWS using Terraform — focused on modu
 
 ## 🚀 Projects
 
-### [WordPress Deployment](./projects/wordpress-deployment)
+### [WordPress Deployment](./wordpress-deployment)
 A fully modular Terraform deployment of a WordPress site on AWS.
 
 **Stack:** Terraform · AWS EC2 · AWS RDS (MySQL) · AWS VPC · Route53
