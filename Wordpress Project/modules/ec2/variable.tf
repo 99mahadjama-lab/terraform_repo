@@ -27,4 +27,5 @@ variable "RDS_Address" {
 }
 variable "wordpress_key" {
   type = string
+  sensitive = true
 }
